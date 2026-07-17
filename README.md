@@ -1,0 +1,1 @@
+# Kicad_NFC_coil_generator
